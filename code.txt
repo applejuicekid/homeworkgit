@@ -1,1 +1,27 @@
 code
+https://balsamiq.cloud/s8plef7/p5yybd9
+
+https://codepen.io/applejuicekid/pen/WyvMBX
+
+<img/>  image attributes are:
+-src: specifies a URL for a web image
+-alt:   Specifies an alternative text for an image, when the image cannot be displayed
+
+<a>link</a>  link attributes are:
+-href   URL Specifies the location of the linked document
+-media  media_query Specifies on what device the linked document will be displayed
+-type   media_type  Specifies the media type of the linked document
+
+
+<form></form>
+-name   text    Specifies the name of a form
+-action URL Specifies where to send the form-data when a form is submitted
+
+
+<script></script>
+-charset    charset Specifies the character encoding used in an external script file
+-defer  defer   Specifies that the script is executed when the page has finished parsing (only for external scripts)
+
+<input>
+-name   text    Specifies the name of an <input> element
+-size   number  Specifies the width, in characters, of an <input> element
